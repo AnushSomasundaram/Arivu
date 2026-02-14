@@ -1,0 +1,76 @@
+
+DevTools listening on ws://127.0.0.1:58822/devtools/browser/03a6b981-ce7a-4fc9-bc7a-c6b160c308d8
+Warning: The allowCypressEnv configuration option is enabled. This allows any browser code to read values from Cypress.env(). This is insecure and will be removed in a future major version.
+
+1. Replace Cypress.env() calls with cy.env() (for sensitive values) or Cypress.expose() (for public configuration)
+2. Set allowCypressEnv: false in your Cypress configuration to disable Cypress.env()
+
+Learn more: https://on.cypress.io/cypress-env-migration
+
+
+==========================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        15.10.0                                                                        │
+  │ Browser:        Electron 138 (headless)                                                        │
+  │ Node Version:   v23.4.0 (/opt/homebrew/Cellar/node/23.4.0/bin/node)                            │
+  │ Specs:          1 found (permutations.cy.ts)                                                   │
+  │ Searched:       cypress/e2e/permutations.cy.ts                                                 │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  permutations.cy.ts                                                              (1 of 1)
+
+
+  Settings Permutations
+    1) Emb:Local | Model:OpenAI | Rerank:Off
+
+
+  0 passing (5s)
+  1 failing
+
+  1) Settings Permutations
+       Emb:Local | Model:OpenAI | Rerank:Off:
+     AssertionError: Timed out retrying after 4000ms: expected 'http://localhost:5173/chat' to include '/projects/'
+      at Context.eval (webpack://vue-project/./cypress/e2e/permutations.cy.ts:48:29)
+
+
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        1                                                                                │
+  │ Passing:      0                                                                                │
+  │ Failing:      1                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  1                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     5 seconds                                                                        │
+  │ Spec Ran:     permutations.cy.ts                                                               │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+  (Screenshots)
+
+  -  /Users/software/development/arivu/Arivu/Frontend/vue-project/cypress/screenshots     (1280x720)
+     /permutations.cy.ts/Settings Permutations -- EmbLocal  ModelOpenAI  RerankOff (f               
+     ailed).png                                                                                     
+
+
+==========================================================================================
+
+  (Run Finished)
+
+
+       Spec                                              Tests  Passing  Failing  Pending  Skipped  
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ ✖  permutations.cy.ts                       00:05        1        -        1        -        - │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+    ✖  1 of 1 failed (100%)                     00:05        1        -        1        -        -  
+

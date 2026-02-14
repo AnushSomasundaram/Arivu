@@ -1,0 +1,6 @@
+
+This is a test document about artificial intelligence.
+AI is simulating human intelligence in machines.
+The capital of France is Paris.
+Ollama is a tool for running LLMs locally.
+Embeddings convert text into vectors.

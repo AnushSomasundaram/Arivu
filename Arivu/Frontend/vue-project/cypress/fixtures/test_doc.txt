@@ -1,0 +1,8 @@
+This is a test document for automated UI testing.
+It contains enough text to be chunked and indexed.
+Arivu rocks! The capital of France is Paris.
+The largest planet is Jupiter.
+Water boils at 100 degrees Celsius.
+Automation is key to software quality.
+Testing permutations ensures robustness.
+End of file.

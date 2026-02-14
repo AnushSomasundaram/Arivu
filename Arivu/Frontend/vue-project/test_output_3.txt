@@ -1,0 +1,75 @@
+
+> vue-project@0.0.0 test:e2e
+> start-server-and-test preview http://localhost:4173 'cypress run --e2e'
+
+1: starting server using command "npm run preview"
+and when url "[ 'http://localhost:4173' ]" is responding with HTTP status code 200
+running tests using command "cypress run --e2e"
+
+
+> vue-project@0.0.0 preview
+> vite preview
+
+  ➜  Local:   http://localhost:4173/
+  ➜  Network: use --host to expose
+
+DevTools listening on ws://127.0.0.1:50920/devtools/browser/5ffb5059-5667-4572-88d1-e42069713c90
+Warning: The allowCypressEnv configuration option is enabled. This allows any browser code to read values from Cypress.env(). This is insecure and will be removed in a future major version.
+
+1. Replace Cypress.env() calls with cy.env() (for sensitive values) or Cypress.expose() (for public configuration)
+2. Set allowCypressEnv: false in your Cypress configuration to disable Cypress.env()
+
+Learn more: https://on.cypress.io/cypress-env-migration
+
+
+======================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        15.10.0                                                                        │
+  │ Browser:        Electron 138 (headless)                                                        │
+  │ Node Version:   v23.4.0 (/opt/homebrew/Cellar/node/23.4.0/bin/node)                            │
+  │ Specs:          1 found (chat.cy.ts)                                                           │
+  │ Searched:       cypress/e2e/**/*.{cy,spec}.{js,jsx,ts,tsx}                                     │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  chat.cy.ts                                                                      (1 of 1)
+
+
+  Chat View
+    ✓ loads the chat page (196ms)
+
+
+  1 passing (215ms)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        1                                                                                │
+  │ Passing:      1                                                                                │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     0 seconds                                                                        │
+  │ Spec Ran:     chat.cy.ts                                                                       │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+======================================================
+
+  (Run Finished)
+
+
+       Spec                                              Tests  Passing  Failing  Pending  Skipped  
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ ✔  chat.cy.ts                               217ms        1        1        -        -        - │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+    ✔  All specs passed!                        217ms        1        1        -        -        -  
+

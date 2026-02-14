@@ -1,0 +1,1584 @@
+INFO:     Will watch for changes in these directories: ['/Users/software/development/arivu/Arivu/Backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [33440] using WatchFiles
+INFO:     Started server process [33501]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:61411 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61413 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61412 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61414 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61416 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61417 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61428 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61430 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61433 - "GET /api/projects/df50606b-a463-4ea3-a957-5fd4bdc03a6d/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61434 - "GET /api/projects/df50606b-a463-4ea3-a957-5fd4bdc03a6d/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61439 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61441 - "GET /api/projects/df50606b-a463-4ea3-a957-5fd4bdc03a6d/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61443 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61445 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61448 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61451 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61454 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61457 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61459 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61467 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61469 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61471 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61473 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61482 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61500 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61501 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61502 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61503 - "GET /api/projects/df50606b-a463-4ea3-a957-5fd4bdc03a6d/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61509 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61510 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61511 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61548 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61552 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61576 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61579 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61583 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61590 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61593 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61595 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61608 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61612 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app/api/routes_query.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [33501]
+INFO:     Started server process [35049]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:61618 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61624 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61626 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61628 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'scripts/test_smart_rag.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [35049]
+WARNING:  WatchFiles detected changes in 'scripts/test_smart_rag.py'. Reloading...
+INFO:     Started server process [35161]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     Started server process [35214]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:61634 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61640 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:61641 - "GET /api/projects HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 25980105-27dc-4aa5-9eca-b860f79bc138"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+/Users/software/development/arivu/Arivu/Backend/app/rag/embeddings.py:131: LangChainDeprecationWarning: The class `HuggingFaceEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  return HuggingFaceEmbeddings(model_name=clean_model)
+INFO:     127.0.0.1:61644 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Indexing document bb93c53d-ed7d-418c-bd62-ab14c2593a6d with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:61642 - "POST /api/projects/25980105-27dc-4aa5-9eca-b860f79bc138/files/upload HTTP/1.1" 201 Created
+{"event": "Using Ollama LLM: llama3 at http://localhost:11434 (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Number of requested results 5 is greater than number of elements in index 1, updating n_results = 1"}
+{"event": "Global Exception: name 'chat_history' is not defined", "exc_info": ["<class 'NameError'>", "NameError(\"name 'chat_history' is not defined\")", "<traceback object at 0x125f9f540>"]}
+INFO:     127.0.0.1:61648 - "POST /api/projects/25980105-27dc-4aa5-9eca-b860f79bc138/query HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 416, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.scope, self.receive, self.send
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/applications.py", line 1138, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/applications.py", line 107, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/cors.py", line 87, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 121, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 107, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 426, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 314, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/app/api/routes_query.py", line 130, in query_rag
+    {"context": all_docs, "input": body.question, "chat_history": chat_history}
+                                                                  ^^^^^^^^^^^^
+NameError: name 'chat_history' is not defined
+INFO:     127.0.0.1:61650 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app/api/routes_query.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [35214]
+INFO:     Started server process [35520]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:61675 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:61676 - "GET /api/projects HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project e735a9ec-7ca0-44f6-b9e3-e7824a624f21"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+/Users/software/development/arivu/Arivu/Backend/app/rag/embeddings.py:131: LangChainDeprecationWarning: The class `HuggingFaceEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  return HuggingFaceEmbeddings(model_name=clean_model)
+INFO:     127.0.0.1:61679 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Indexing document 05293142-cc78-4071-a574-d5d614dbc423 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:61677 - "POST /api/projects/e735a9ec-7ca0-44f6-b9e3-e7824a624f21/files/upload HTTP/1.1" 201 Created
+{"event": "Using Ollama LLM: llama3 at http://localhost:11434 (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Number of requested results 5 is greater than number of elements in index 1, updating n_results = 1"}
+INFO:     127.0.0.1:61712 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61714 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61682 - "POST /api/projects/e735a9ec-7ca0-44f6-b9e3-e7824a624f21/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61717 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61719 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61724 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61732 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61736 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61738 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61740 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61744 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61749 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Using OpenAI LLM: gpt-4o-mini (temp=0.75)"}
+{"event": "Using OpenAI embeddings: openai:text-embedding-3-small"}
+{"event": "API Key being used: sk-... (length: 164)"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Generated queries: ['What do these documents contain and what is their purpose?  ', 'What is the purpose and information included in these documents?  ', 'Can you explain the significance and details of these documents?']"}
+{"event": "Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:61758 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61751 - "POST /api/projects/df50606b-a463-4ea3-a957-5fd4bdc03a6d/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61761 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Using OpenAI LLM: gpt-4o-mini (temp=0.75)"}
+{"event": "Using OpenAI embeddings: openai:text-embedding-3-small"}
+{"event": "API Key being used: sk-... (length: 164)"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:61768 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61772 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Generated queries: ['Generate a 10-question quiz focused on Natural Language Processing topics.  ', 'Can you design a test with 10 questions covering concepts in Natural Language Processing?  ', 'What are some sample questions for a 10-item Natural Language Processing test?']"}
+INFO:     127.0.0.1:61766 - "POST /api/projects/df50606b-a463-4ea3-a957-5fd4bdc03a6d/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61785 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61791 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61797 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61799 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61801 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61804 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61806 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61809 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61814 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61816 - "GET /api/projects/df50606b-a463-4ea3-a957-5fd4bdc03a6d/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61820 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61823 - "DELETE /api/projects/71143446-adf1-47c8-8c23-0aeb12d6b532 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:61826 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61828 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61832 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61836 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61838 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61844 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61846 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61852 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61854 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61856 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app/db/models.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [35520]
+WARNING:  WatchFiles detected changes in 'app/db/models.py'. Reloading...
+INFO:     Started server process [37596]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'app/api/schemas.py'. Reloading...
+INFO:     Started server process [37624]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     Started server process [37639]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:61861 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61868 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61870 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app/api/routes_history.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [37639]
+WARNING:  WatchFiles detected changes in 'app/api/routes_history.py'. Reloading...
+INFO:     Started server process [37708]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     Started server process [37749]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:61877 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [37749]
+WARNING:  WatchFiles detected changes in 'app/api/routes_query.py'. Reloading...
+INFO:     Started server process [37795]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     Started server process [37811]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:61890 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61894 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app/api/schemas.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [37811]
+WARNING:  WatchFiles detected changes in 'app/api/routes_query.py'. Reloading...
+INFO:     Started server process [37972]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     Started server process [37988]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:61899 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61902 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61904 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61913 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61916 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61914 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61915 - "GET /api/projects/df50606b-a463-4ea3-a957-5fd4bdc03a6d/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61917 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61925 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61929 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61935 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61936 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'scripts/verify_history.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [37988]
+WARNING:  WatchFiles detected changes in 'scripts/verify_history.py'. Reloading...
+INFO:     Started server process [38308]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     Started server process [38351]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:61947 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61960 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61961 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61954 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61956 - "GET /api/projects/25980105-27dc-4aa5-9eca-b860f79bc138/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61959 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:61962 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61963 - "GET /api/projects HTTP/1.1" 200 OK
+{"event": "Using Ollama LLM: llama3 at http://localhost:11434 (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+/Users/software/development/arivu/Arivu/Backend/app/rag/embeddings.py:131: LangChainDeprecationWarning: The class `HuggingFaceEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  return HuggingFaceEmbeddings(model_name=clean_model)
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:61968 - "GET /api/projects/25980105-27dc-4aa5-9eca-b860f79bc138/files HTTP/1.1" 200 OK
+{"event": "Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:61993 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61995 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Failed to save chat history: 'metadata_json' is an invalid keyword argument for ChatMessage"}
+INFO:     127.0.0.1:61964 - "POST /api/projects/3268e0cf-c1b9-4e8d-8fe0-1b1902863d61/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61996 - "GET /api/projects/3268e0cf-c1b9-4e8d-8fe0-1b1902863d61/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61997 - "DELETE /api/projects/3268e0cf-c1b9-4e8d-8fe0-1b1902863d61/history HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:61998 - "GET /api/projects/3268e0cf-c1b9-4e8d-8fe0-1b1902863d61/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62003 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62005 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62011 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62014 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62016 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62017 - "GET /api/projects HTTP/1.1" 200 OK
+{"event": "Using Ollama LLM: llama3 at http://localhost:11434 (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to save chat history: 'metadata_json' is an invalid keyword argument for ChatMessage"}
+INFO:     127.0.0.1:62018 - "POST /api/projects/de9cbfed-6e85-43fb-9e49-136988865eb8/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62021 - "GET /api/projects/de9cbfed-6e85-43fb-9e49-136988865eb8/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62022 - "DELETE /api/projects/de9cbfed-6e85-43fb-9e49-136988865eb8/history HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:62023 - "GET /api/projects/de9cbfed-6e85-43fb-9e49-136988865eb8/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62026 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62028 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62031 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62034 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [38351]
+INFO:     Started server process [39468]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:62040 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62041 - "GET /api/projects HTTP/1.1" 200 OK
+{"event": "Using Ollama LLM: llama3 at http://localhost:11434 (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+/Users/software/development/arivu/Arivu/Backend/app/rag/embeddings.py:131: LangChainDeprecationWarning: The class `HuggingFaceEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  return HuggingFaceEmbeddings(model_name=clean_model)
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:62045 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to save chat history: 'metadata_json' is an invalid keyword argument for ChatMessage"}
+INFO:     127.0.0.1:62042 - "POST /api/projects/680e00bd-c2ca-4eab-960b-315ad99330fa/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62050 - "GET /api/projects/680e00bd-c2ca-4eab-960b-315ad99330fa/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62051 - "DELETE /api/projects/680e00bd-c2ca-4eab-960b-315ad99330fa/history HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:62052 - "GET /api/projects/680e00bd-c2ca-4eab-960b-315ad99330fa/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62055 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62057 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62059 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app/db/models.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39468]
+INFO:     Started server process [39796]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:62073 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'scripts/recreate_history_table.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39796]
+WARNING:  WatchFiles detected changes in 'scripts/recreate_history_table.py'. Reloading...
+INFO:     Started server process [39883]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:62081 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62086 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62087 - "GET /api/projects HTTP/1.1" 200 OK
+{"event": "Using Ollama LLM: llama3 at http://localhost:11434 (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+/Users/software/development/arivu/Arivu/Backend/app/rag/embeddings.py:131: LangChainDeprecationWarning: The class `HuggingFaceEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  return HuggingFaceEmbeddings(model_name=clean_model)
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:62088 - "POST /api/projects/c4f38024-953d-4575-a51b-b1d7e12ee2d2/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62094 - "GET /api/projects/c4f38024-953d-4575-a51b-b1d7e12ee2d2/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62095 - "DELETE /api/projects/c4f38024-953d-4575-a51b-b1d7e12ee2d2/history HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:62096 - "GET /api/projects/c4f38024-953d-4575-a51b-b1d7e12ee2d2/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62098 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62104 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62106 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62108 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62117 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62121 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62128 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62131 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62133 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62135 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62139 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62142 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62147 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62150 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62152 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62160 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62162 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62170 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62176 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62180 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62182 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62184 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'scripts/test_project_cleanup.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39883]
+INFO:     Started server process [41472]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:62195 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62196 - "DELETE /api/projects/cbd207b2-1916-4a3f-b397-80e9ae75f318 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:62198 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62202 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62207 - "GET /api/health HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'scripts/cleanup_orphaned_data.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41472]
+INFO:     Started server process [41929]
+INFO:     Waiting for application startup.
+{"event": "LLM: Ollama (llama3) at http://localhost:11434"}
+{"event": "Embeddings: Local (all-MiniLM-L6-v2)"}
+{"event": "Configuration validated successfully"}
+INFO:     Application startup complete.
+INFO:     127.0.0.1:62213 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62215 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62217 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62222 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62225 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62230 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62233 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62235 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62239 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62248 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62257 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62301 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62302 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62303 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62304 - "GET /api/projects/c4f38024-953d-4575-a51b-b1d7e12ee2d2/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62305 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62306 - "GET /api/projects/b3d3cfcb-bcbb-4f6f-b11c-f79d42138cca/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62311 - "GET /api/projects/b3d3cfcb-bcbb-4f6f-b11c-f79d42138cca/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project b3d3cfcb-bcbb-4f6f-b11c-f79d42138cca"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+/Users/software/development/arivu/Arivu/Backend/app/rag/embeddings.py:131: LangChainDeprecationWarning: The class `HuggingFaceEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  return HuggingFaceEmbeddings(model_name=clean_model)
+{"event": "Indexing document 1f5bd379-9ad7-48e0-a370-fead597e4f4d with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:62312 - "POST /api/projects/b3d3cfcb-bcbb-4f6f-b11c-f79d42138cca/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62317 - "GET /api/projects/b3d3cfcb-bcbb-4f6f-b11c-f79d42138cca/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62326 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62351 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62352 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62353 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62354 - "GET /api/projects/b3d3cfcb-bcbb-4f6f-b11c-f79d42138cca/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62356 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62358 - "GET /api/projects/343cf90e-50b5-4885-b237-24c45c3dbd9d/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62361 - "GET /api/projects/343cf90e-50b5-4885-b237-24c45c3dbd9d/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 343cf90e-50b5-4885-b237-24c45c3dbd9d"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document a01a45f3-d224-4af0-88f7-d38e62e4b9f9 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:62362 - "POST /api/projects/343cf90e-50b5-4885-b237-24c45c3dbd9d/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62364 - "GET /api/projects/343cf90e-50b5-4885-b237-24c45c3dbd9d/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62371 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62376 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62398 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62399 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62400 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62401 - "GET /api/projects/343cf90e-50b5-4885-b237-24c45c3dbd9d/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62402 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62403 - "GET /api/projects/1e58ead2-9d34-4fd4-899d-5bd4a6d5fbf4/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62406 - "GET /api/projects/1e58ead2-9d34-4fd4-899d-5bd4a6d5fbf4/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 1e58ead2-9d34-4fd4-899d-5bd4a6d5fbf4"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 03fd4e5f-baa8-4553-96b4-85064523d0f2 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:62407 - "POST /api/projects/1e58ead2-9d34-4fd4-899d-5bd4a6d5fbf4/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62409 - "GET /api/projects/1e58ead2-9d34-4fd4-899d-5bd4a6d5fbf4/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62414 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62423 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62442 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62443 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62444 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62446 - "GET /api/projects/1e58ead2-9d34-4fd4-899d-5bd4a6d5fbf4/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62447 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62449 - "GET /api/projects/6c40e703-2e8d-4105-be1a-9e57c27037fd/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62452 - "GET /api/projects/6c40e703-2e8d-4105-be1a-9e57c27037fd/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 6c40e703-2e8d-4105-be1a-9e57c27037fd"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 25e9869d-e7aa-4946-bf35-3cd337f128ee with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:62453 - "POST /api/projects/6c40e703-2e8d-4105-be1a-9e57c27037fd/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62456 - "GET /api/projects/6c40e703-2e8d-4105-be1a-9e57c27037fd/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62463 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62468 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62491 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62492 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62493 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62494 - "GET /api/projects/6c40e703-2e8d-4105-be1a-9e57c27037fd/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62495 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62497 - "GET /api/projects/da41c53c-1ed2-49bb-83b5-6faf29990c50/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62500 - "PATCH /api/projects/da41c53c-1ed2-49bb-83b5-6faf29990c50 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62503 - "GET /api/projects/da41c53c-1ed2-49bb-83b5-6faf29990c50/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project da41c53c-1ed2-49bb-83b5-6faf29990c50"}
+{"event": "Model: openai:text-embedding-3-small"}
+{"event": "API Key provided in request: Yes"}
+{"event": "API Key length: 164"}
+{"event": "API Key prefix: sk-..."}
+{"event": "Using OpenAI embeddings: openai:text-embedding-3-small"}
+{"event": "API Key being used: sk-... (length: 164)"}
+{"event": "Using OpenAI LLM: gpt-4o-mini (temp=0.3)"}
+{"event": "Indexing document d8346ddd-52b1-4e7d-bbc0-174154704fa5 with 1 chunks"}
+{"event": "Embedding model has OpenAI key: Yes (sk-...)"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Ingestion failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}", "exc_info": ["<class 'openai.AuthenticationError'>", "AuthenticationError(\"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}\")", "<traceback object at 0x1388a4400>"]}
+INFO:     127.0.0.1:62504 - "POST /api/projects/da41c53c-1ed2-49bb-83b5-6faf29990c50/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62507 - "GET /api/projects/da41c53c-1ed2-49bb-83b5-6faf29990c50/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62511 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62517 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62541 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62542 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62543 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62545 - "GET /api/projects/da41c53c-1ed2-49bb-83b5-6faf29990c50/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62546 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62548 - "GET /api/projects/a4a5185b-a7a2-42a4-853e-ce1209dcaa04/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62550 - "PATCH /api/projects/a4a5185b-a7a2-42a4-853e-ce1209dcaa04 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62553 - "GET /api/projects/a4a5185b-a7a2-42a4-853e-ce1209dcaa04/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project a4a5185b-a7a2-42a4-853e-ce1209dcaa04"}
+{"event": "Model: openai:text-embedding-3-small"}
+{"event": "API Key provided in request: Yes"}
+{"event": "API Key length: 164"}
+{"event": "API Key prefix: sk-..."}
+{"event": "Using OpenAI embeddings: openai:text-embedding-3-small"}
+{"event": "API Key being used: sk-... (length: 164)"}
+{"event": "Using OpenAI LLM: gpt-4o-mini (temp=0.3)"}
+{"event": "Indexing document fd0bc55f-a064-41c1-81f4-d85d6a59b843 with 1 chunks"}
+{"event": "Embedding model has OpenAI key: Yes (sk-...)"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Ingestion failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}", "exc_info": ["<class 'openai.AuthenticationError'>", "AuthenticationError(\"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}\")", "<traceback object at 0x1388c05c0>"]}
+INFO:     127.0.0.1:62554 - "POST /api/projects/a4a5185b-a7a2-42a4-853e-ce1209dcaa04/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62557 - "GET /api/projects/a4a5185b-a7a2-42a4-853e-ce1209dcaa04/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62563 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62572 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62593 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62594 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62596 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62598 - "GET /api/projects/a4a5185b-a7a2-42a4-853e-ce1209dcaa04/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62599 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62601 - "GET /api/projects/53b9a8c3-628c-4d4f-b7d3-5b7e4185bc78/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62603 - "PATCH /api/projects/53b9a8c3-628c-4d4f-b7d3-5b7e4185bc78 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62608 - "GET /api/projects/53b9a8c3-628c-4d4f-b7d3-5b7e4185bc78/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 53b9a8c3-628c-4d4f-b7d3-5b7e4185bc78"}
+{"event": "Model: openai:text-embedding-3-small"}
+{"event": "API Key provided in request: Yes"}
+{"event": "API Key length: 164"}
+{"event": "API Key prefix: sk-..."}
+{"event": "Using OpenAI embeddings: openai:text-embedding-3-small"}
+{"event": "API Key being used: sk-... (length: 164)"}
+{"event": "Using OpenAI LLM: gpt-4o-mini (temp=0.3)"}
+{"event": "Indexing document 9a0ff955-a000-473d-bbd3-d1360cfc1a6d with 1 chunks"}
+{"event": "Embedding model has OpenAI key: Yes (sk-...)"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Ingestion failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}", "exc_info": ["<class 'openai.AuthenticationError'>", "AuthenticationError(\"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}\")", "<traceback object at 0x139598f00>"]}
+INFO:     127.0.0.1:62609 - "POST /api/projects/53b9a8c3-628c-4d4f-b7d3-5b7e4185bc78/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62612 - "GET /api/projects/53b9a8c3-628c-4d4f-b7d3-5b7e4185bc78/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62618 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62627 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62647 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62648 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62649 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62651 - "GET /api/projects/53b9a8c3-628c-4d4f-b7d3-5b7e4185bc78/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62652 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62654 - "GET /api/projects/4eaa2e6f-fabe-4406-928f-041493d60d32/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62656 - "PATCH /api/projects/4eaa2e6f-fabe-4406-928f-041493d60d32 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62659 - "GET /api/projects/4eaa2e6f-fabe-4406-928f-041493d60d32/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 4eaa2e6f-fabe-4406-928f-041493d60d32"}
+{"event": "Model: openai:text-embedding-3-small"}
+{"event": "API Key provided in request: Yes"}
+{"event": "API Key length: 164"}
+{"event": "API Key prefix: sk-..."}
+{"event": "Using OpenAI embeddings: openai:text-embedding-3-small"}
+{"event": "API Key being used: sk-... (length: 164)"}
+{"event": "Using OpenAI LLM: gpt-4o-mini (temp=0.3)"}
+{"event": "Indexing document f8ed5b21-6ef5-4ae7-ad3a-70440e7fc259 with 1 chunks"}
+{"event": "Embedding model has OpenAI key: Yes (sk-...)"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Ingestion failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}", "exc_info": ["<class 'openai.AuthenticationError'>", "AuthenticationError(\"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}\")", "<traceback object at 0x1395a0940>"]}
+INFO:     127.0.0.1:62660 - "POST /api/projects/4eaa2e6f-fabe-4406-928f-041493d60d32/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62663 - "GET /api/projects/4eaa2e6f-fabe-4406-928f-041493d60d32/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62671 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62678 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62738 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62739 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62740 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62741 - "GET /api/projects/4eaa2e6f-fabe-4406-928f-041493d60d32/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62742 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62744 - "GET /api/projects/9acf0cf8-c56a-42c5-a605-bab9ff8d524d/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62767 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62768 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62769 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62770 - "GET /api/projects/9acf0cf8-c56a-42c5-a605-bab9ff8d524d/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62771 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62773 - "GET /api/projects/f4a437d4-362d-4196-92ff-68d5708b50a0/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62794 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62796 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62797 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62800 - "GET /api/projects/f4a437d4-362d-4196-92ff-68d5708b50a0/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62801 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62803 - "GET /api/projects/7e28ec98-723c-45b4-b969-7e488c86594a/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62825 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62826 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62827 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62828 - "GET /api/projects/7e28ec98-723c-45b4-b969-7e488c86594a/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62829 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62831 - "GET /api/projects/4b9debe4-65e1-4b39-9341-127fd59f7d41/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62854 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62855 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62856 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62857 - "GET /api/projects/4b9debe4-65e1-4b39-9341-127fd59f7d41/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62859 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62861 - "GET /api/projects/eca56c90-6276-41a5-b7f4-edd21d5ae28f/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62890 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62891 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62892 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62894 - "GET /api/projects/eca56c90-6276-41a5-b7f4-edd21d5ae28f/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62895 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62897 - "GET /api/projects/6b66d907-4087-48a8-923e-cf5e690fb7a2/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62920 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62921 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62922 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62923 - "GET /api/projects/6b66d907-4087-48a8-923e-cf5e690fb7a2/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62924 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62926 - "GET /api/projects/8d5db39b-20e1-4542-ad31-51ddecaf1902/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62947 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62948 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62950 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62951 - "GET /api/projects/8d5db39b-20e1-4542-ad31-51ddecaf1902/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62955 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62957 - "GET /api/projects/18becda7-f9b5-4c1a-baf4-f432dee13c3b/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63028 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63029 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63030 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63031 - "GET /api/projects/18becda7-f9b5-4c1a-baf4-f432dee13c3b/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63032 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63034 - "GET /api/projects/a27386f1-d43e-41d6-b46b-c1610548056e/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63038 - "GET /api/projects/a27386f1-d43e-41d6-b46b-c1610548056e/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project a27386f1-d43e-41d6-b46b-c1610548056e"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 8e224c49-8e60-43a0-9591-40d113a05f42 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:63039 - "POST /api/projects/a27386f1-d43e-41d6-b46b-c1610548056e/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63042 - "GET /api/projects/a27386f1-d43e-41d6-b46b-c1610548056e/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63046 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63054 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63060 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63078 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63079 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63081 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63082 - "GET /api/projects/a27386f1-d43e-41d6-b46b-c1610548056e/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63084 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63086 - "GET /api/projects/27f0445d-9a16-4654-ae0d-2b4080389e12/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63091 - "GET /api/projects/27f0445d-9a16-4654-ae0d-2b4080389e12/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 27f0445d-9a16-4654-ae0d-2b4080389e12"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document bcca83b4-417b-4461-9c46-71d5115ea53c with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:63092 - "POST /api/projects/27f0445d-9a16-4654-ae0d-2b4080389e12/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63094 - "GET /api/projects/27f0445d-9a16-4654-ae0d-2b4080389e12/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63102 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63107 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63119 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63137 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63138 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63140 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63142 - "GET /api/projects/27f0445d-9a16-4654-ae0d-2b4080389e12/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63143 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63145 - "GET /api/projects/997930b7-fcd1-4bd0-a837-f4949d39a8d0/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63148 - "GET /api/projects/997930b7-fcd1-4bd0-a837-f4949d39a8d0/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 997930b7-fcd1-4bd0-a837-f4949d39a8d0"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 7dc6393a-00e0-4db0-9287-2654dfbb0ac5 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:63149 - "POST /api/projects/997930b7-fcd1-4bd0-a837-f4949d39a8d0/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63152 - "GET /api/projects/997930b7-fcd1-4bd0-a837-f4949d39a8d0/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63157 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63175 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63203 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63204 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63205 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63206 - "GET /api/projects/997930b7-fcd1-4bd0-a837-f4949d39a8d0/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63208 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63210 - "GET /api/projects/9aa5a02e-3885-4415-8a38-88d83010f49c/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63214 - "GET /api/projects/9aa5a02e-3885-4415-8a38-88d83010f49c/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 9aa5a02e-3885-4415-8a38-88d83010f49c"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 823b515f-fde8-4610-8473-dd9d86c20a21 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:63215 - "POST /api/projects/9aa5a02e-3885-4415-8a38-88d83010f49c/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63220 - "GET /api/projects/9aa5a02e-3885-4415-8a38-88d83010f49c/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63226 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63237 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63265 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63266 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63267 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63268 - "GET /api/projects/9aa5a02e-3885-4415-8a38-88d83010f49c/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63270 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63272 - "GET /api/projects/740fc7e0-fd3b-4e8e-bb05-fcf244d286d2/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63286 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63287 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63288 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63289 - "GET /api/projects/740fc7e0-fd3b-4e8e-bb05-fcf244d286d2/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63291 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63293 - "GET /api/projects/d5bac221-f33c-4dee-9a61-deb51d2ac922/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63303 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63304 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63305 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63306 - "GET /api/projects/d5bac221-f33c-4dee-9a61-deb51d2ac922/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63307 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63309 - "GET /api/projects/660b78a9-6b58-4a32-a8c4-dc718b427d6b/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63318 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63319 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63320 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63322 - "GET /api/projects/660b78a9-6b58-4a32-a8c4-dc718b427d6b/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63326 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63328 - "GET /api/projects/89b1d7b5-e7b8-44f7-8da2-feb826a0b8a4/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63465 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63468 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63471 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63474 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63477 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63480 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63483 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63486 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63489 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63493 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63495 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63498 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63501 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63504 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63510 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63513 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63519 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63522 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63527 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63531 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63533 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63535 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63539 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63542 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63548 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63556 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63559 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63564 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63568 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63573 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63578 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63583 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63588 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63592 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63597 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63606 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63609 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63612 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63616 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63618 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63624 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63629 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63634 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63637 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63643 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63647 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63649 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63656 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63659 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63662 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63666 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63670 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63679 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63693 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63702 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63705 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63708 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63755 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63756 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63757 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63758 - "GET /api/projects/89b1d7b5-e7b8-44f7-8da2-feb826a0b8a4/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63759 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63761 - "GET /api/projects/4169020e-7019-4307-8958-ec2d9ab83702/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63766 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63769 - "GET /api/projects/4169020e-7019-4307-8958-ec2d9ab83702/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 4169020e-7019-4307-8958-ec2d9ab83702"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document b31239e1-d0d5-4689-a32d-621868adc928 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:63770 - "POST /api/projects/4169020e-7019-4307-8958-ec2d9ab83702/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63773 - "GET /api/projects/4169020e-7019-4307-8958-ec2d9ab83702/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63777 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63778 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63790 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63792 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63798 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63801 - "GET /api/projects/25980105-27dc-4aa5-9eca-b860f79bc138/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63806 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63808 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63813 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63816 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63820 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63839 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63840 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63841 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "GET /api/projects/4169020e-7019-4307-8958-ec2d9ab83702/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63844 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63846 - "GET /api/projects/976f783b-a987-429b-b700-86703fbff04a/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63849 - "GET /api/projects/976f783b-a987-429b-b700-86703fbff04a/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 976f783b-a987-429b-b700-86703fbff04a"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document ed7e7906-3f2e-4b4d-9445-36d1f6966f86 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:63850 - "POST /api/projects/976f783b-a987-429b-b700-86703fbff04a/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63852 - "GET /api/projects/976f783b-a987-429b-b700-86703fbff04a/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63856 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63861 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63862 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63866 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63873 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63899 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63900 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63901 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63902 - "GET /api/projects/976f783b-a987-429b-b700-86703fbff04a/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63904 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63906 - "GET /api/projects/1053d1a8-8426-4f83-becd-a4193cfc7371/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63910 - "GET /api/projects/1053d1a8-8426-4f83-becd-a4193cfc7371/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 1053d1a8-8426-4f83-becd-a4193cfc7371"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 936fe655-bb9e-4857-8bad-f3e9f0a8d657 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:63911 - "POST /api/projects/1053d1a8-8426-4f83-becd-a4193cfc7371/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63913 - "GET /api/projects/1053d1a8-8426-4f83-becd-a4193cfc7371/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63914 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63919 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63922 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63927 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63928 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63933 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63938 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63962 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63963 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63964 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63965 - "GET /api/projects/1053d1a8-8426-4f83-becd-a4193cfc7371/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63966 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63968 - "GET /api/projects/e0aafcc2-95b0-4457-8dd7-031025124f94/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63971 - "GET /api/projects/e0aafcc2-95b0-4457-8dd7-031025124f94/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project e0aafcc2-95b0-4457-8dd7-031025124f94"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 32eacaad-2295-4545-8513-f2f21055232f with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:63972 - "POST /api/projects/e0aafcc2-95b0-4457-8dd7-031025124f94/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63974 - "GET /api/projects/e0aafcc2-95b0-4457-8dd7-031025124f94/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63978 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63982 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63989 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63994 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63996 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63999 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64003 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64025 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64026 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64027 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64028 - "GET /api/projects/e0aafcc2-95b0-4457-8dd7-031025124f94/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64030 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64032 - "GET /api/projects/219e678a-1511-4fd8-8975-32d6e769caf5/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64041 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64042 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64043 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64045 - "GET /api/projects/219e678a-1511-4fd8-8975-32d6e769caf5/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64046 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64048 - "GET /api/projects/da97e582-c559-46c4-8a2c-50a2627bf939/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64057 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64058 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64059 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64061 - "GET /api/projects/da97e582-c559-46c4-8a2c-50a2627bf939/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64062 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64064 - "GET /api/projects/aa821c08-da62-4a9f-95c4-d760bc82da26/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64066 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64075 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64076 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64077 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64078 - "GET /api/projects/aa821c08-da62-4a9f-95c4-d760bc82da26/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64079 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64081 - "GET /api/projects/2a9c2497-d0bc-4d11-a4ae-50fa97e92599/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64089 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64094 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64099 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64102 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64104 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64110 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64148 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64149 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64150 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64151 - "GET /api/projects/2a9c2497-d0bc-4d11-a4ae-50fa97e92599/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64152 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64154 - "GET /api/projects/14aed23f-6639-4cd3-af93-f36a382f3235/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64158 - "GET /api/projects/14aed23f-6639-4cd3-af93-f36a382f3235/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 14aed23f-6639-4cd3-af93-f36a382f3235"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 5dee71dc-cb22-475d-a5e2-4d2cb1ecdf7b with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:64159 - "POST /api/projects/14aed23f-6639-4cd3-af93-f36a382f3235/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64161 - "GET /api/projects/14aed23f-6639-4cd3-af93-f36a382f3235/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64163 - "GET /api/projects/14aed23f-6639-4cd3-af93-f36a382f3235/history HTTP/1.1" 200 OK
+{"event": "Using OpenAI LLM: gpt-4o-mini (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:64170 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Global Exception: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}", "exc_info": ["<class 'openai.AuthenticationError'>", "AuthenticationError(\"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}\")", "<traceback object at 0x138a4c3c0>"]}
+INFO:     127.0.0.1:64166 - "POST /api/projects/14aed23f-6639-4cd3-af93-f36a382f3235/query HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 416, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.scope, self.receive, self.send
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/applications.py", line 1138, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/applications.py", line 107, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/cors.py", line 95, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/cors.py", line 153, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 121, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 107, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 426, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 314, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/app/api/routes_query.py", line 121, in query_rag
+    retrieved_docs = await run_in_threadpool(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 2502, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 986, in run
+    result = context.run(func, *args)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 5720, in invoke
+    return self.bound.invoke(
+           ~~~~~~~~~~~~~~~~~^
+        input,
+        ^^^^^^
+        self._merge_configs(config),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        **{**self.kwargs, **kwargs},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/runnables/branch.py", line 248, in invoke
+    output = self.default.invoke(
+        input,
+    ...<3 lines>...
+        **kwargs,
+    )
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 3254, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 395, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1025, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 842, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1091, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_openai/chat_models/base.py", line 1213, in _generate
+    raise e
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_openai/chat_models/base.py", line 1208, in _generate
+    raw_response = self.client.with_raw_response.create(**payload)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/_legacy_response.py", line 364, in wrapped
+    return cast(LegacyAPIResponse[R], func(*args, **kwargs))
+                                      ~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/_utils/_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/resources/chat/completions/completions.py", line 1147, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/chat/completions",
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<46 lines>...
+        stream_cls=Stream[ChatCompletionChunk],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+INFO:     127.0.0.1:64173 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64177 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64180 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64185 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64189 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64194 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64205 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64207 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64212 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64234 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64235 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64236 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64237 - "GET /api/projects/14aed23f-6639-4cd3-af93-f36a382f3235/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64238 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64240 - "GET /api/projects/c1c6bf9c-b8c7-4868-b0d9-75cbfcba6e9a/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64247 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64249 - "GET /api/projects/c1c6bf9c-b8c7-4868-b0d9-75cbfcba6e9a/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project c1c6bf9c-b8c7-4868-b0d9-75cbfcba6e9a"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 0c8bfe5a-ab57-47a6-bc8e-5e27cbd0741a with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:64251 - "POST /api/projects/c1c6bf9c-b8c7-4868-b0d9-75cbfcba6e9a/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64254 - "GET /api/projects/c1c6bf9c-b8c7-4868-b0d9-75cbfcba6e9a/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64256 - "GET /api/projects/c1c6bf9c-b8c7-4868-b0d9-75cbfcba6e9a/history HTTP/1.1" 200 OK
+{"event": "Using OpenAI LLM: gpt-4o-mini (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Global Exception: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}", "exc_info": ["<class 'openai.AuthenticationError'>", "AuthenticationError(\"Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}\")", "<traceback object at 0x13892c8c0>"]}
+INFO:     127.0.0.1:64258 - "POST /api/projects/c1c6bf9c-b8c7-4868-b0d9-75cbfcba6e9a/query HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 416, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.scope, self.receive, self.send
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/applications.py", line 1138, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/applications.py", line 107, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/cors.py", line 95, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/cors.py", line 153, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 121, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 107, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 426, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/fastapi/routing.py", line 314, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/app/api/routes_query.py", line 121, in query_rag
+    retrieved_docs = await run_in_threadpool(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 2502, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 986, in run
+    result = context.run(func, *args)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 5720, in invoke
+    return self.bound.invoke(
+           ~~~~~~~~~~~~~~~~~^
+        input,
+        ^^^^^^
+        self._merge_configs(config),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        **{**self.kwargs, **kwargs},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/runnables/branch.py", line 248, in invoke
+    output = self.default.invoke(
+        input,
+    ...<3 lines>...
+        **kwargs,
+    )
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 3254, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 395, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1025, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 842, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1091, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_openai/chat_models/base.py", line 1213, in _generate
+    raise e
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/langchain_openai/chat_models/base.py", line 1208, in _generate
+    raw_response = self.client.with_raw_response.create(**payload)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/_legacy_response.py", line 364, in wrapped
+    return cast(LegacyAPIResponse[R], func(*args, **kwargs))
+                                      ~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/_utils/_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/resources/chat/completions/completions.py", line 1147, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/chat/completions",
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<46 lines>...
+        stream_cls=Stream[ChatCompletionChunk],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/software/development/arivu/Arivu/Backend/.venv/lib/python3.13/site-packages/openai/_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************wd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+INFO:     127.0.0.1:64263 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64264 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64270 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64273 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64276 - "GET /api/projects/25980105-27dc-4aa5-9eca-b860f79bc138/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64281 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64282 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64286 - "GET /api/projects/df50606b-a463-4ea3-a957-5fd4bdc03a6d/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64288 - "GET /api/projects/0437bca3-8cc7-4bc2-bdc1-bfa447b8a0a2/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64292 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64296 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64302 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64305 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64327 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64328 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64329 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64330 - "GET /api/projects/c1c6bf9c-b8c7-4868-b0d9-75cbfcba6e9a/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64333 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64335 - "GET /api/projects/0d0c83c0-e31d-4885-a22a-15ef483c42a7/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64338 - "GET /api/projects/0d0c83c0-e31d-4885-a22a-15ef483c42a7/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project 0d0c83c0-e31d-4885-a22a-15ef483c42a7"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Indexing document 11cc513a-2c1e-47ef-b2f2-f323001b4d2a with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:64339 - "POST /api/projects/0d0c83c0-e31d-4885-a22a-15ef483c42a7/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64341 - "GET /api/projects/0d0c83c0-e31d-4885-a22a-15ef483c42a7/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64343 - "GET /api/projects/0d0c83c0-e31d-4885-a22a-15ef483c42a7/history HTTP/1.1" 200 OK
+{"event": "Using Ollama LLM: llama3 at http://localhost:11434 (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:64379 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64384 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64386 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64389 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Number of requested results 5 is greater than number of elements in index 1, updating n_results = 1"}
+INFO:     127.0.0.1:64346 - "POST /api/projects/0d0c83c0-e31d-4885-a22a-15ef483c42a7/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64409 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64410 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64411 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64412 - "GET /api/projects/0d0c83c0-e31d-4885-a22a-15ef483c42a7/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64413 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64415 - "GET /api/projects/ec630496-0def-4e40-89a7-5e816f394f00/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64419 - "GET /api/projects/ec630496-0def-4e40-89a7-5e816f394f00/files HTTP/1.1" 200 OK
+{"event": "Initializing embeddings for project ec630496-0def-4e40-89a7-5e816f394f00"}
+{"event": "Model: local:all-MiniLM-L6-v2"}
+{"event": "API Key provided in request: No"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+INFO:     127.0.0.1:64423 - "GET /api/health HTTP/1.1" 200 OK
+{"event": "Indexing document e9055bba-48fc-4074-b185-1377f0b17d39 with 1 chunks"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+INFO:     127.0.0.1:64421 - "POST /api/projects/ec630496-0def-4e40-89a7-5e816f394f00/files/upload HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64426 - "GET /api/projects/ec630496-0def-4e40-89a7-5e816f394f00/files HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64428 - "GET /api/projects/ec630496-0def-4e40-89a7-5e816f394f00/history HTTP/1.1" 200 OK
+{"event": "Using Ollama LLM: llama3 at http://localhost:11434 (temp=0.2)"}
+{"event": "Using HuggingFace embeddings: all-MiniLM-L6-v2"}
+{"event": "Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given"}
+{"event": "Number of requested results 5 is greater than number of elements in index 1, updating n_results = 1"}
+INFO:     127.0.0.1:64430 - "POST /api/projects/ec630496-0def-4e40-89a7-5e816f394f00/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64451 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64452 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64453 - "GET /api/projects/default/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64454 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64456 - "GET /api/projects/ec630496-0def-4e40-89a7-5e816f394f00/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64458 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64460 - "GET /api/projects/e0b2f4c5-33f8-42c3-8df2-b43450601d07/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64462 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64471 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64472 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64473 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64474 - "GET /api/projects/e0b2f4c5-33f8-42c3-8df2-b43450601d07/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64475 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64477 - "GET /api/projects/66ee89d1-4492-43a2-913c-9ed263d9c287/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64486 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64487 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64488 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64490 - "GET /api/projects/66ee89d1-4492-43a2-913c-9ed263d9c287/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64491 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64493 - "GET /api/projects/6d9a1cac-f874-4e62-8f7b-866143dc0f18/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64504 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64505 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64506 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64507 - "GET /api/projects/6d9a1cac-f874-4e62-8f7b-866143dc0f18/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64508 - "POST /api/projects HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64510 - "GET /api/projects/9717b448-ca41-4635-8a15-ada4dfd6ce1f/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64517 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64521 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64526 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64529 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64532 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64536 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64542 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64546 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64549 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64552 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64556 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64558 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64569 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64572 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64577 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64580 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64583 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64588 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64593 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64599 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64602 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64605 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64609 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64612 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64622 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64630 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64635 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64638 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64640 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64647 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64658 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64664 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64667 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64670 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64674 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64680 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64687 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64690 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64695 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64698 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64700 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64704 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64709 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64716 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64723 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64727 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64731 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64734 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64739 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64744 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64752 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64755 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64757 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64761 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64764 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64772 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64774 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64778 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64782 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64785 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64794 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64807 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64810 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64813 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64817 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64819 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64824 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64829 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64834 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64837 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64839 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64845 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64849 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64856 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64859 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64862 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64870 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64876 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64886 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64890 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64895 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64898 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64901 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64907 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41929]
+INFO:     Stopping reloader process [33440]
+/opt/homebrew/Cellar/python@3.13/3.13.3/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:301: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown: {'/loky-39468-ldqfv41s', '/loky-35214-mu6_9un_', '/loky-38351-h6xy2t74', '/loky-39883-xkoa9jap', '/loky-35520-m9sq8rb5', '/loky-41929-m912jyd4'}
+  warnings.warn(

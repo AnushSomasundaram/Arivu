@@ -1,0 +1,16 @@
+
+> vue-project@0.0.0 test:e2e
+> start-server-and-test preview http://localhost:4173 'cypress run --e2e'
+
+1: starting server using command "npm run preview"
+and when url "[ 'http://localhost:4173' ]" is responding with HTTP status code 200
+running tests using command "cypress run --e2e"
+
+
+> vue-project@0.0.0 preview
+> vite preview
+
+  ➜  Local:   http://localhost:4173/
+  ➜  Network: use --host to expose
+
+DevTools listening on ws://127.0.0.1:50909/devtools/browser/0945e49d-0f63-4377-8914-fa904ce3dcc1

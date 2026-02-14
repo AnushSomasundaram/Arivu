@@ -1,0 +1,155 @@
+
+DevTools listening on ws://127.0.0.1:59214/devtools/browser/77f2729e-08a0-4941-9957-55243dc86eda
+Warning: The allowCypressEnv configuration option is enabled. This allows any browser code to read values from Cypress.env(). This is insecure and will be removed in a future major version.
+
+1. Replace Cypress.env() calls with cy.env() (for sensitive values) or Cypress.expose() (for public configuration)
+2. Set allowCypressEnv: false in your Cypress configuration to disable Cypress.env()
+
+Learn more: https://on.cypress.io/cypress-env-migration
+
+
+==========================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        15.10.0                                                                        │
+  │ Browser:        Electron 138 (headless)                                                        │
+  │ Node Version:   v23.4.0 (/opt/homebrew/Cellar/node/23.4.0/bin/node)                            │
+  │ Specs:          1 found (permutations.cy.ts)                                                   │
+  │ Searched:       cypress/e2e/permutations.cy.ts                                                 │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  permutations.cy.ts                                                              (1 of 1)
+
+
+  Settings Permutations
+    1) Emb:Local | Model:OpenAI | Rerank:Off
+    2) Emb:Local | Model:OpenAI | Rerank:On
+    3) Emb:Local | Model:Ollama | Rerank:Off
+    4) Emb:Local | Model:Ollama | Rerank:On
+    5) Emb:OpenAI | Model:OpenAI | Rerank:Off
+    6) Emb:OpenAI | Model:OpenAI | Rerank:On
+    7) Emb:OpenAI | Model:Ollama | Rerank:Off
+    8) Emb:OpenAI | Model:Ollama | Rerank:On
+
+
+  0 passing (40s)
+  8 failing
+
+  1) Settings Permutations
+       Emb:Local | Model:OpenAI | Rerank:Off:
+     AssertionError: Timed out retrying after 4000ms: expected '<span.truncate>' to be 'visible'
+
+This element `<span.truncate>` is not visible because its content is being clipped by one of its parent elements, which has a CSS property of overflow: `hidden`, `clip`, `scroll` or `auto`
+      at Context.eval (webpack://vue-project/./cypress/e2e/permutations.cy.ts:48:45)
+
+  2) Settings Permutations
+       Emb:Local | Model:OpenAI | Rerank:On:
+     AssertionError: Timed out retrying after 4000ms: expected '<span.truncate>' to be 'visible'
+
+This element `<span.truncate>` is not visible because its content is being clipped by one of its parent elements, which has a CSS property of overflow: `hidden`, `clip`, `scroll` or `auto`
+      at Context.eval (webpack://vue-project/./cypress/e2e/permutations.cy.ts:48:45)
+
+  3) Settings Permutations
+       Emb:Local | Model:Ollama | Rerank:Off:
+     AssertionError: Timed out retrying after 4000ms: expected '<span.truncate>' to be 'visible'
+
+This element `<span.truncate>` is not visible because its content is being clipped by one of its parent elements, which has a CSS property of overflow: `hidden`, `clip`, `scroll` or `auto`
+      at Context.eval (webpack://vue-project/./cypress/e2e/permutations.cy.ts:48:45)
+
+  4) Settings Permutations
+       Emb:Local | Model:Ollama | Rerank:On:
+     AssertionError: Timed out retrying after 4000ms: expected '<span.truncate>' to be 'visible'
+
+This element `<span.truncate>` is not visible because its content is being clipped by one of its parent elements, which has a CSS property of overflow: `hidden`, `clip`, `scroll` or `auto`
+      at Context.eval (webpack://vue-project/./cypress/e2e/permutations.cy.ts:48:45)
+
+  5) Settings Permutations
+       Emb:OpenAI | Model:OpenAI | Rerank:Off:
+     AssertionError: Timed out retrying after 4000ms: expected '<span.truncate>' to be 'visible'
+
+This element `<span.truncate>` is not visible because its content is being clipped by one of its parent elements, which has a CSS property of overflow: `hidden`, `clip`, `scroll` or `auto`
+      at Context.eval (webpack://vue-project/./cypress/e2e/permutations.cy.ts:48:45)
+
+  6) Settings Permutations
+       Emb:OpenAI | Model:OpenAI | Rerank:On:
+     AssertionError: Timed out retrying after 4000ms: expected '<span.truncate>' to be 'visible'
+
+This element `<span.truncate>` is not visible because its content is being clipped by one of its parent elements, which has a CSS property of overflow: `hidden`, `clip`, `scroll` or `auto`
+      at Context.eval (webpack://vue-project/./cypress/e2e/permutations.cy.ts:48:45)
+
+  7) Settings Permutations
+       Emb:OpenAI | Model:Ollama | Rerank:Off:
+     AssertionError: Timed out retrying after 4000ms: expected '<span.truncate>' to be 'visible'
+
+This element `<span.truncate>` is not visible because its content is being clipped by one of its parent elements, which has a CSS property of overflow: `hidden`, `clip`, `scroll` or `auto`
+      at Context.eval (webpack://vue-project/./cypress/e2e/permutations.cy.ts:48:45)
+
+  8) Settings Permutations
+       Emb:OpenAI | Model:Ollama | Rerank:On:
+     AssertionError: Timed out retrying after 4000ms: expected '<span.truncate>' to be 'visible'
+
+This element `<span.truncate>` is not visible because its content is being clipped by one of its parent elements, which has a CSS property of overflow: `hidden`, `clip`, `scroll` or `auto`
+      at Context.eval (webpack://vue-project/./cypress/e2e/permutations.cy.ts:48:45)
+
+
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        8                                                                                │
+  │ Passing:      0                                                                                │
+  │ Failing:      8                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  8                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     40 seconds                                                                       │
+  │ Spec Ran:     permutations.cy.ts                                                               │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+  (Screenshots)
+
+  -  /Users/software/development/arivu/Arivu/Frontend/vue-project/cypress/screenshots     (1280x720)
+     /permutations.cy.ts/Settings Permutations -- EmbLocal  ModelOpenAI  RerankOff (f               
+     ailed).png                                                                                     
+  -  /Users/software/development/arivu/Arivu/Frontend/vue-project/cypress/screenshots     (1280x720)
+     /permutations.cy.ts/Settings Permutations -- EmbLocal  ModelOpenAI  RerankOn (fa               
+     iled).png                                                                                      
+  -  /Users/software/development/arivu/Arivu/Frontend/vue-project/cypress/screenshots     (1280x720)
+     /permutations.cy.ts/Settings Permutations -- EmbLocal  ModelOllama  RerankOff (f               
+     ailed).png                                                                                     
+  -  /Users/software/development/arivu/Arivu/Frontend/vue-project/cypress/screenshots     (1280x720)
+     /permutations.cy.ts/Settings Permutations -- EmbLocal  ModelOllama  RerankOn (fa               
+     iled).png                                                                                      
+  -  /Users/software/development/arivu/Arivu/Frontend/vue-project/cypress/screenshots     (1280x720)
+     /permutations.cy.ts/Settings Permutations -- EmbOpenAI  ModelOpenAI  RerankOff (               
+     failed).png                                                                                    
+  -  /Users/software/development/arivu/Arivu/Frontend/vue-project/cypress/screenshots     (1280x720)
+     /permutations.cy.ts/Settings Permutations -- EmbOpenAI  ModelOpenAI  RerankOn (f               
+     ailed).png                                                                                     
+  -  /Users/software/development/arivu/Arivu/Frontend/vue-project/cypress/screenshots     (1280x720)
+     /permutations.cy.ts/Settings Permutations -- EmbOpenAI  ModelOllama  RerankOff (               
+     failed).png                                                                                    
+  -  /Users/software/development/arivu/Arivu/Frontend/vue-project/cypress/screenshots     (1280x720)
+     /permutations.cy.ts/Settings Permutations -- EmbOpenAI  ModelOllama  RerankOn (f               
+     ailed).png                                                                                     
+
+
+==========================================================================================
+
+  (Run Finished)
+
+
+       Spec                                              Tests  Passing  Failing  Pending  Skipped  
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ ✖  permutations.cy.ts                       00:40        8        -        8        -        - │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+    ✖  1 of 1 failed (100%)                     00:40        8        -        8        -        -  
+

@@ -1,0 +1,34 @@
+
+DevTools listening on ws://127.0.0.1:59821/devtools/browser/e9507091-21f8-49ad-8d23-7fe53171b8a2
+Warning: The allowCypressEnv configuration option is enabled. This allows any browser code to read values from Cypress.env(). This is insecure and will be removed in a future major version.
+
+1. Replace Cypress.env() calls with cy.env() (for sensitive values) or Cypress.expose() (for public configuration)
+2. Set allowCypressEnv: false in your Cypress configuration to disable Cypress.env()
+
+Learn more: https://on.cypress.io/cypress-env-migration
+
+
+==========================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        15.10.0                                                                        │
+  │ Browser:        Electron 138 (headless)                                                        │
+  │ Node Version:   v23.4.0 (/opt/homebrew/Cellar/node/23.4.0/bin/node)                            │
+  │ Specs:          1 found (permutations.cy.ts)                                                   │
+  │ Searched:       cypress/e2e/permutations.cy.ts                                                 │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  permutations.cy.ts                                                              (1 of 1)
+
+
+  Settings Permutations
+    1) Emb:Local | Model:OpenAI | Rerank:Off
+    2) Emb:Local | Model:OpenAI | Rerank:On
+    3) Emb:Local | Model:Ollama | Rerank:Off
+    4) Emb:Local | Model:Ollama | Rerank:On
+    5) Emb:OpenAI | Model:OpenAI | Rerank:Off

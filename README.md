@@ -1,6 +1,6 @@
 # Arivu
 
-**Arivu** (Tamil for *knowledge / wisdom*) is a local-first Electron desktop application for Retrieval-Augmented Generation (RAG) over your own documents. It runs entirely on your machine with no data sent to the cloud unless you explicitly configure a cloud LLM or embedding provider.
+**Arivu** is a local-first Electron desktop application for Retrieval-Augmented Generation (RAG) over your own documents. It runs entirely on your machine with no data sent to the cloud unless you explicitly configure a cloud LLM or embedding provider.
 
 ---
 
